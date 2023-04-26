@@ -51,5 +51,5 @@ Hello, This is a simple project creating an API with GraphQL
 
 ## Author
 
-- [@bentojulio](https://www.github.com/octokatherine)
+- [@bentojulio](https://www.github.com/ArianNexux)
 
