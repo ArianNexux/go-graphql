@@ -11,7 +11,6 @@ Hello, This is a simple project creating an API with GraphQL
 
 ### CREATE THE IMAGE AND RUN THE CONTAINER
 > docker build [IMAGE NAME]
-
 > docker run [IMAGE NAME]
 
 
@@ -27,7 +26,15 @@ Hello, This is a simple project creating an API with GraphQL
 ### RUN THE APP
 
 > go run server.go
-## Documentação da API
+## FEATURES
+
+- INSERT COURSE
+- INSERT CATEGORY
+- LIST COURSE
+- LIST CATEGORY
+
+
+## API DOCUMENTATION
 
 
 
@@ -42,7 +49,7 @@ Hello, This is a simple project creating an API with GraphQL
 
 
 
-## Autores
+## Author
 
 - [@bentojulio](https://www.github.com/octokatherine)
 
