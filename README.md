@@ -10,9 +10,10 @@ Hello, This is a simple project creating an API with GraphQL
 ## STEPS TO TUN THE APP
 
 ### CREATE THE IMAGE AND RUN THE CONTAINER
-> docker build [IMAGE NAME]
-> docker run [IMAGE NAME]
 
+> docker build [IMAGE NAME]
+
+> docker run [IMAGE NAME]
 
 ### INSTALL SQLITE ON LINUX AND CREATE THE TABLE FOR DATABASE
 > sudo apt-get install sqlite3
@@ -46,7 +47,7 @@ Hello, This is a simple project creating an API with GraphQL
 ```
 
 
-
+In future i will publish this image in Docker Hub.
 
 
 ## Author
