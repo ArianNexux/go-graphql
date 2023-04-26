@@ -11,6 +11,7 @@ Hello, This is a simple project creating an API with GraphQL
 
 ### CREATE THE IMAGE AND RUN THE CONTAINER
 > docker build [IMAGE NAME]
+
 > docker run [IMAGE NAME]
 
 
